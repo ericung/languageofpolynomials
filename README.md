@@ -5,3 +5,7 @@
 ![Commutativity](Resources/commutativity.png)
 ![Product](Resources/product.png)
 ![Problem with Matrices](Resources/problemwithmatrices.png)
+
+-----
+
+[Theory of Computation](https://en.wikipedia.org/wiki/Introduction_to_the_Theory_of_Computation)
