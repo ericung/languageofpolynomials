@@ -5,7 +5,7 @@
 ![Commutativity](Resources/commutativity.png)
 ![Product](Resources/product.png)
 ![Problem with Matrices](Resources/problemwithmatrices.png)
-![Multivariable Polynomials](Resources\monomialsofmultiplevariables.png)
+![Multivariable Polynomials](Resources/monomialsofmultiplevariables.png)
 
 -----
 
