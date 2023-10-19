@@ -7,6 +7,7 @@
 ![Problem with Matrices](Resources/problemwithmatrices.png)
 ![Multivariable Polynomials](Resources/monomialsofmultiplevariables.png)
 ![Concentric Monomial Deciders](Resources/concentricmonomialdeciders.png)
+![Concentric Monomial Deciders](Resources/usecases.png)
 
 -----
 
