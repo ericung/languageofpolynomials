@@ -8,6 +8,7 @@
 ![Multivariable Polynomials](Resources/monomialsofmultiplevariables.png)
 ![Concentric Monomial Deciders](Resources/concentricmonomialdeciders.png)
 ![Concentric Monomial Deciders](Resources/usecases.png)
+![Concentric Monomial Deciders](Resources/quantumstates.png)
 
 -----
 
