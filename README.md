@@ -7,8 +7,9 @@
 ![Problem with Matrices](Resources/problemwithmatrices.png)
 ![Multivariable Polynomials](Resources/monomialsofmultiplevariables.png)
 ![Concentric Monomial Deciders](Resources/concentricmonomialdeciders.png)
-![Concentric Monomial Deciders](Resources/usecases.png)
-![Concentric Monomial Deciders](Resources/quantumstates.png)
+![Constants](Resources/constant.png)
+![Division](Resources/division.png)
+![Multiple Divisions](Resources/multipledivisions.png)
 
 -----
 
