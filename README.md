@@ -15,6 +15,7 @@ Each slide can be formalized even further as their own research paper but presen
 ![Multiple Divisions](Resources/multipledivisions.png)
 ![Equivalence](Resouces/equivalence.png)
 ![Reversing](Resources/reversing.png)
+![Corollary of Reversing](Resources/corollaryreversing.png)
 
 -----
 
