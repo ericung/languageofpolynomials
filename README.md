@@ -17,6 +17,7 @@ Each slide can be formalized even further as their own research paper but presen
 ![Reversing](Resources/reversing.png)
 ![Corollary of Reversing](Resources/corollaryreversing.png)
 ![Godel's Theorem](Resources/Godel.png)
+![Infiniteness](Resources/infiniteness.png)
 
 -----
 
