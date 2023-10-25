@@ -21,8 +21,8 @@ Each slide can be formalized even further as their own research paper but presen
 
 -----
 
-[Theory of Computation](https://en.wikipedia.org/wiki/Introduction_to_the_Theory_of_Computation)
+[Theory of Computation](https://en.wikipedia.org/wiki/Introduction_to_the_Theory_of_Computation)\
 [Topology](https://math.ucr.edu/~res/math205B-2018/Munkres%20-%20Topology.pdf)\
-[Algebra](https://math.mit.edu/~hrm/palestine/artin-algebra.pdf)
-[Logic](https://dn790009.ca.archive.org/0/items/MathematicalIntroductionToLogicEnderton/MathematicalIntroductionToLogic-Enderton.pdf)
-[Analysis](https://zlib.pub/book/analysis-with-an-introduction-to-proof-1q70kqfatdhg)
+[Algebra](https://math.mit.edu/~hrm/palestine/artin-algebra.pdf)\
+[Logic](https://dn790009.ca.archive.org/0/items/MathematicalIntroductionToLogicEnderton/MathematicalIntroductionToLogic-Enderton.pdf)\
+[Analysis](https://zlib.pub/book/analysis-with-an-introduction-to-proof-1q70kqfatdhg)\
