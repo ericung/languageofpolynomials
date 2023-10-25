@@ -16,7 +16,7 @@ Each slide can be formalized even further as their own research paper but presen
 ![Equivalence](Resouces/equivalence.png)
 ![Reversing](Resources/reversing.png)
 ![Corollary of Reversing](Resources/corollaryreversing.png)
-![Godel's Theorem](Resources/godel.png)
+![Godel's Theorem](Resources/Godel.png)
 
 -----
 
