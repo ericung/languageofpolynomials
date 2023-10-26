@@ -1,6 +1,6 @@
 # A Language of Polynomials
 
-Each slide can be formalized even further as their own research paper but presenting in this manner allows my ideas to give intuitive bearing so that it gives people from various backgrounds to come up with their own theories, ideas, and applications.
+Each slide can be formalized even further as their own research paper but presenting in this manner allows my ideas to give intuitive bearing so that it gives people from various backgrounds to come up with their own theories, ideas, and applications. On the other hand, this is also a formalized proof in my style of construction.
 
 ![Foundations](Resources/foundations.png)
 ![Monomial of One Degree](Resources/generalizationofmonomialofonedegree.png)
