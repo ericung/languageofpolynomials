@@ -13,7 +13,7 @@ Each slide can be formalized even further as their own research paper but presen
 ![Constants](Resources/constant.png)
 ![Division](Resources/division.png)
 ![Multiple Divisions](Resources/multipledivisions.png)
-![Equivalence](Resouces/equivalence.png)
+![Equivalence](Resources/equivalence.png)
 ![Reversing](Resources/reversing.png)
 ![Corollary of Reversing](Resources/corollaryreversing.png)
 ![Godel's Theorem](Resources/Godel.png)
