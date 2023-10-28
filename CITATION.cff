@@ -6,19 +6,15 @@ authors:
   orcid: "https://orcid.org/0009-0008-6122-4557"
 title: "A Language Of Polynomials"
 version: 1.0.0
-doi:
 date-released: 2023-11-01
 url: "https://github.com/ericung/languageofpolynomials"
 preferred-citation:
+  version: 1.0.0
   type: article
   url: "https://github.com/ericung/languageofpolynomials"
   authors:
   - family-names: "Ung"
     given-names: "Eric"
     orcid: "https://orcid.org/0009-0008-6122-4557"
-  doi: ""
-  journal: "Eric Ung"
   title: "A Language Of Polynomials"
-  issue: 1
-  volume: 1
   year: 2023
