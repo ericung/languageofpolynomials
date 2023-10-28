@@ -13,11 +13,11 @@ Each slide can be formalized even further as their own research paper but presen
 ![Constants](Resources/09TheConstantOfMonomialDecider.jpg)
 ![Division](Resources/10DivisionOfMonomialDeciders.jpg)
 ![Multiple Divisions](Resources/11MultipleDivisionsOfMonomialDecider.jpg)
-![Equivalence](Resouces/12EquivalenceInPartitioning.jpg)
+![Equivalence](Resources/12EquivalenceInPartitioning.jpg)
 ![Reversing](Resources/13EasyToComputeOneWayHardToFindTheOther.jpg)
 ![Corollary of Reversing](Resources/14UniquenessOfThePathsOfEquivalentMonomialDeciders.jpg)
 ![Godel's Theorem](Resources/15Godel.jpg)
-![The Last Part of the One Way Function](Resources/16ASideNoteOfTheTheoremsRelatingToProbability.jpg)
+![Constructing The One Way Function](Resources/16ASideNoteOfTheTheoremsRelatingToProbability.jpg)
 ![Infiniteness](Resources/17ATheoremOfInfiniteness.jpg)
 
 -----
