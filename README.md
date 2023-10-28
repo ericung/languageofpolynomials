@@ -2,39 +2,39 @@
 
 Each slide can be formalized even further as their own research paper but presenting in this manner allows my ideas to give intuitive bearing so that it gives people from various backgrounds to come up with their own theories, ideas, and applications. On the other hand, this is also a formalized proof in my style of construction.
 
-### Foundations
+### 1. Foundations
 ![Foundations](Resources/01ALanguageOfPolynomials.jpg)
-### Monomial of One Degree
+### 2. Monomial of One Degree
 ![Monomial of One Degree](Resources/02MonomialOfOneDegree.jpg)
-### Commutativity
+### 3. Commutativity
 ![Commutativity](Resources/03Commutativity.jpg)
-### Product
+### 4. Product
 ![Product](Resources/04ProductOfMonomial.jpg)
-### Problem with Matrices
+### 5. Problem with Matrices
 ![Problem with Matrices](Resources/05AProblemWithTheLanguageOfPolynomials.jpg)
-### Multivariable Polynomials
+### 6. Multivariable Polynomials
 ![Multivariable Polynomials](Resources/06MonomialsOfMoreThanOneVariable.jpg)
-### Generalized Monomial Deciders
+### 7. Generalized Monomial Deciders
 ![Generalized Monomial Deciders](Resources/07TheGeneralizedMonomialDecider.jpg)
-### Concentric Monomial Deciders
+### 8. Concentric Monomial Deciders
 ![Concentric Monomial Deciders](Resources/08MonomialDecidersWithConstantOfOne.jpg)
-### Constants
+### 9. Constants
 ![Constants](Resources/09TheConstantOfMonomialDecider.jpg)
-### Division
+### 10. Division
 ![Division](Resources/10DivisionOfMonomialDeciders.jpg)
-### Multiple Divisions
+### 11. Multiple Divisions
 ![Multiple Divisions](Resources/11MultipleDivisionsOfMonomialDecider.jpg)
-### Equivalence
+### 12. Equivalence
 ![Equivalence](Resources/12EquivalenceInPartitioning.jpg)
-### Reversing
+### 13. Reversing
 ![Reversing](Resources/13EasyToComputeOneWayHardToFindTheOther.jpg)
-### Corollary of Reversing
+### 14. Corollary of Reversing
 ![Corollary of Reversing](Resources/14UniquenessOfThePathsOfEquivalentMonomialDeciders.jpg)
-### Godel's Theorem
+### 15. Godel's Theorem
 ![Godel's Theorem](Resources/15Godel.jpg)
-### Constructing The One Way Function
+### 16. Constructing The One Way Function
 ![Constructing The One Way Function](Resources/16ASideNoteOfTheTheoremsRelatingToProbability.jpg)
-### Infiniteness
+### 17. Infiniteness
 ![Infiniteness](Resources/17ATheoremOfInfiniteness.jpg)
 
 -----
