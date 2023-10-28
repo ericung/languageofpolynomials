@@ -22,6 +22,7 @@ Each slide can be formalized even further as their own research paper but presen
 
 -----
 
+## References For The Tools Used 
 [Theory of Computation](https://en.wikipedia.org/wiki/Introduction_to_the_Theory_of_Computation)\
 [Topology](https://math.ucr.edu/~res/math205B-2018/Munkres%20-%20Topology.pdf)\
 [Algebra](https://math.mit.edu/~hrm/palestine/artin-algebra.pdf)\
