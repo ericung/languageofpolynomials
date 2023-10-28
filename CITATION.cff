@@ -11,6 +11,7 @@ date-released: 2023-11-01
 url: "https://github.com/ericung/languageofpolynomials"
 preferred-citation:
   type: article
+  url: "https://github.com/ericung/languageofpolynomials"
   authors:
   - family-names: "Ung"
     given-names: "Eric"
