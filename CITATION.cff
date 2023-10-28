@@ -6,6 +6,7 @@ authors:
     orcid: https://orcid.org/0009-0008-6122-4557
 title: "A Language Of Polynomials"
 version: 1.0.0
-preferred-citation: article
+preferred-citation:
+  title: article
 doi: 
 date-released: 2023-11-01
