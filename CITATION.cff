@@ -7,6 +7,8 @@ authors:
 title: "A Language Of Polynomials"
 version: 1.0.0
 preferred-citation:
-  title: article
-doi: 
+  type: article
+  authors:
+  - family-names: "Ung"
+    given-names: "Eric"
 date-released: 2023-11-01
