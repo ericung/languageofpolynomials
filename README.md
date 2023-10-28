@@ -6,7 +6,7 @@ Each slide can be formalized even further as their own research paper but presen
 ![Monomial of One Degree](Resources/02MonomialOfOneDegree.jpg)
 ![Commutativity](Resources/03Commutativity.jpg)
 ![Product](Resources/04ProductOfMonomial.jpg)
-![Problem with Matrices](Resources/05ProblemWithTheLanguageOfPolynomials.jpg)
+![Problem with Matrices](Resources/05AProblemWithTheLanguageOfPolynomials.jpg)
 ![Multivariable Polynomials](Resources/06MonomialsOfMoreThanOneVariable.jpg)
 ![Generalized Monomial Deciders](Resources/07TheGeneralizedMonomialDecider.jpg)
 ![Concentric Monomial Deciders](Resources/08MonomialDecidersWithConstantOfOne.jpg)
