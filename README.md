@@ -6,8 +6,8 @@ Each slide can be formalized even further as their own research paper but presen
 ![Foundations](Resources/01ALanguageOfPolynomials.jpg)
 ### 2. Monomial of One Degree
 ![Monomial of One Degree](Resources/02MonomialOfOneDegree.jpg)
-### 3. Commutativity
-![Commutativity](Resources/03Commutativity.jpg)
+### 3. Addition
+![Addition](Resources/03Addition.jpg)
 ### 4. Product
 ![Product](Resources/04ProductOfMonomial.jpg)
 ### 5. Problem with Matrices
