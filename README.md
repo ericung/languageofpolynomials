@@ -3,39 +3,39 @@
 Each slide can be formalized even further as their own research paper but presenting in this manner allows my ideas to give intuitive bearing so that it gives people from various backgrounds to come up with their own theories, ideas, and applications. On the other hand, this is also a formalized proof in my style of construction.
 
 ### 1. Foundations
-![Foundations](https://i.seadn.io/s/raw/files/9f75ebe154270e7e46563d2c73d175ea.jpg?auto=format&dpr=1&w=1000)
+![Foundations](Resources/01ALanguageOfPolynomials.jpg)
 ### 2. Monomial of One Degree
-![Monomial of One Degree](https://i.seadn.io/s/raw/files/4cb6308ffe2e412653c4e97ef8d9f444.jpg?auto=format&dpr=1&w=1000)
+![Monomial of One Degree](Resources/02MonomialOfOneDegree.jpg)
 ### 3. Addition
-![Addition](https://i.seadn.io/s/raw/files/d96f3bac7ac6f73948312b45b9e84c84.jpg?auto=format&dpr=1&w=1000)
+![Addition](Resources/03Addition.jpg)
 ### 4. Product
-![Product](https://i.seadn.io/s/raw/files/10245ec92f9e33bdb10e3b33e57ff28c.jpg?auto=format&dpr=1&w=1000)
+![Product](Resources/04ProductOfMonomial.jpg)
 ### 5. Problem with Matrices
-![Problem with Matrices](https://i.seadn.io/s/raw/files/8c1967ffe7f5daf06d4350a3d3cf8561.jpg?auto=format&dpr=1&w=1000)
+![Problem with Matrices](Resources/05AProblemWithTheLanguageOfPolynomials.jpg)
 ### 6. Multivariable Polynomials
-![Multivariable Polynomials](https://i.seadn.io/s/raw/files/5334b7a5857311d96aa143d6f183ed1d.jpg?auto=format&dpr=1&w=1000)
+![Multivariable Polynomials](Resources/06MonomialsOfMoreThanOneVariable.jpg)
 ### 7. Generalized Monomial Deciders
-![Generalized Monomial Deciders](https://i.seadn.io/s/raw/files/ff4203f024a9576acb591e9c2c5036fc.jpg?auto=format&dpr=1&w=1000)
+![Generalized Monomial Deciders](Resources/07TheGeneralizedMonomialDecider.jpg)
 ### 8. Concentric Monomial Deciders
-![Concentric Monomial Deciders](https://i.seadn.io/s/raw/files/72ce7443198eb29d97c7ad4770f92587.jpg?auto=format&dpr=1&w=1000)
+![Concentric Monomial Deciders](Resources/08MonomialDecidersWithConstantOfOne.jpg)
 ### 9. Constants
-![Constants](https://i.seadn.io/s/raw/files/1428c340ce1dbbb662d6ff2f8f36ce9d.jpg?auto=format&dpr=1&w=1000)
+![Constants](Resources/09TheConstantOfMonomialDecider.jpg)
 ### 10. Division
-![Division](https://i.seadn.io/s/raw/files/94ae2bf0b54d8e05cee2ef5a7b7b4fc1.jpg?auto=format&dpr=1&w=1000)
+![Division](Resources/10DivisionOfMonomialDeciders.jpg)
 ### 11. Multiple Divisions
-![Multiple Divisions](https://i.seadn.io/s/raw/files/2df43686cd7fd850cd453038e80b4683.jpg?auto=format&dpr=1&w=1000)
+![Multiple Divisions](Resources/11MultipleDivisionsOfMonomialDecider.jpg)
 ### 12. Equivalence
-![Equivalence](https://i.seadn.io/s/raw/files/461399d26480185147f88d7356802314.jpg?auto=format&dpr=1&w=1000)
+![Equivalence](Resources/12EquivalenceInPartitioning.jpg)
 ### 13. Reversing
-![Reversing](https://i.seadn.io/s/raw/files/32081555fdc28346354d30e2af60e4de.jpg?auto=format&dpr=1&w=1000)
+![Reversing](Resources/13EasyToComputeOneWayHardToFindTheOther.jpg)
 ### 14. Corollary of Reversing
-![Corollary of Reversing](https://i.seadn.io/s/raw/files/96b1bd9c39e0738bc2614994ada5bab5.jpg?auto=format&dpr=1&w=1000)
+![Corollary of Reversing](Resources/14UniquenessOfThePathsOfEquivalentMonomialDeciders.jpg)
 ### 15. Godel's Theorem
-![Godel's Theorem](https://i.seadn.io/s/raw/files/08652345fb10531f24b0b4264b688f62.jpg?auto=format&dpr=1&w=1000)
+![Godel's Theorem](Resources/15Godel.jpg)
 ### 16. Constructing The One Way Function
-![Constructing The One Way Function](https://i.seadn.io/s/raw/files/dd4f9b0b17548aa033c3c5c429ba993f.jpg?auto=format&dpr=1&w=1000)
+![Constructing The One Way Function](Resources/16ASideNoteOfTheTheoremsRelatingToProbability.jpg)
 ### 17. Infiniteness
-![Infiniteness](https://i.seadn.io/s/raw/files/9ece5cd5d0e581faf1dcde202a36e726.jpg?auto=format&dpr=1&w=1000)
+![Infiniteness](Resources/17ATheoremOfInfiniteness.jpg)
 
 -----
 
