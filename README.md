@@ -40,6 +40,9 @@ Each slide can be formalized even further as their own research paper but presen
 -----
 
 ### References
+
+Berstel, J., & Reutenauer, C. (2010). Noncommutative rational series with applications. Cambridge University Press.
+
 Sipser, M. (2006). [Theory of Computation](https://en.wikipedia.org/wiki/Introduction_to_the_Theory_of_Computation) (2nd ed., p. 431). Course Technology, Cengage Learning.
 
 Munkres, J. R. (2000). [Topology](https://math.ucr.edu/~res/math205B-2018/Munkres%20-%20Topology.pdf) (2nd ed., p. 537). Prentice Hall.
