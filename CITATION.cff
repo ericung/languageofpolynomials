@@ -4,6 +4,8 @@ authors:
 - family-names: "Eric"
   given-names: "Ung"
   orcid: "https://orcid.org/0009-0008-6122-4557"
+- family-names: "Carl"
+  given-names: "Sturtivant"
 title: "A Language Of Polynomials"
 version: 1.0.1
 date-released: 2023-11-01
@@ -16,5 +18,7 @@ preferred-citation:
   - family-names: "Ung"
     given-names: "Eric"
     orcid: "https://orcid.org/0009-0008-6122-4557"
+  - family-names: "Sturtivant"
+    given-names: "Carl"
   title: "A Language Of Polynomials"
   year: 2023
