@@ -6,6 +6,8 @@ Each slide can be formalized even further as their own research paper but presen
 
 ![Foundations](Resources/01ALanguageOfPolynomials.jpg)
 
+![Translation](Resources/0101Translation.jpg)
+
 ### 2. Monomial of One Degree
 
 ![Monomial of One Degree](Resources/02MonomialOfOneDegree.jpg)
