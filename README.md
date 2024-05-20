@@ -1,6 +1,6 @@
 # A Language of Polynomials
 
-Each slide can be formalized even further as their own research paper but presenting in this manner allows my ideas to give intuitive bearing so that it gives people from various backgrounds to come up with their own theories, ideas, and applications. On the other hand, this is also a formalized proof in my style of construction. A clean version can be found [here](https://ericung.com/Articles/languageofpolynomials).
+Each slide can be formalized even further as their own research paper but presenting in this manner allows my ideas to give intuitive bearing so that it gives people from various backgrounds to come up with their own theories, ideas, and applications. On the other hand, this is also a formalized proof in my style of construction. The working version can be found [here](https://ericung.com/Articles/languageofpolynomials). This article is on the reframing of the one way function to a matrix multiplication problem - that of multiplying two 3x3 matrices to form a 6x6 matrix under a locally concatenative property.
 
 ### 1. Foundations
 
