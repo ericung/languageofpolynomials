@@ -8,9 +8,9 @@ Each slide can be formalized even further as their own research paper but presen
 
 ![Translation](Resources/0101Translation.jpg)
 
-### 2. Monomial of One Degree
+### 2. Monomial of One Variable
 
-![Monomial of One Degree](Resources/02MonomialOfOneDegree.jpg)
+![Monomial of One Degree](Resources/02MonomialOfOneVariable.jpg)
 
 ### 3. Addition
 
